@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0275-h-index-ii](https://github.com/jaivardhan2409/leetcode/tree/master/0275-h-index-ii) |
 | [0506-relative-ranks](https://github.com/jaivardhan2409/leetcode/tree/master/0506-relative-ranks) |
 | [1642-furthest-building-you-can-reach](https://github.com/jaivardhan2409/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 ## Sorting
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-furthest-building-you-can-reach](https://github.com/jaivardhan2409/leetcode/tree/master/1642-furthest-building-you-can-reach) |
+## Binary Search
+|  |
+| ------- |
+| [0275-h-index-ii](https://github.com/jaivardhan2409/leetcode/tree/master/0275-h-index-ii) |
 <!---LeetCode Topics End-->
