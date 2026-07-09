@@ -8,18 +8,17 @@ class Solution {
                 nums1[k] = nums1[i];
                 i--;
                 k--;
-            }
-            else{
+            }else{
                 nums1[k] = nums2[j];
                 j--;
                 k--;
             }
         }
+        
         while(j>=0){
             nums1[k] = nums2[j];
             j--;
             k--;
         }
-        
     }
 }
