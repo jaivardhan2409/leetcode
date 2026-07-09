@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jaivardhan2409/leetcode/tree/master/0088-merge-sorted-array) |
 | [0275-h-index-ii](https://github.com/jaivardhan2409/leetcode/tree/master/0275-h-index-ii) |
 | [0506-relative-ranks](https://github.com/jaivardhan2409/leetcode/tree/master/0506-relative-ranks) |
 | [1642-furthest-building-you-can-reach](https://github.com/jaivardhan2409/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jaivardhan2409/leetcode/tree/master/0088-merge-sorted-array) |
 | [0506-relative-ranks](https://github.com/jaivardhan2409/leetcode/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
@@ -24,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/jaivardhan2409/leetcode/tree/master/0275-h-index-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/jaivardhan2409/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
