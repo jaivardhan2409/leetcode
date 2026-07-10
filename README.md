@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jaivardhan2409/leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaivardhan2409/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/jaivardhan2409/leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/jaivardhan2409/leetcode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/jaivardhan2409/leetcode/tree/master/0506-relative-ranks) |
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaivardhan2409/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/jaivardhan2409/leetcode/tree/master/0275-h-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jaivardhan2409/leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaivardhan2409/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/jaivardhan2409/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
