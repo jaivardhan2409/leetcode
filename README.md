@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jaivardhan2409/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/jaivardhan2409/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaivardhan2409/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0218-the-skyline-problem](https://github.com/jaivardhan2409/leetcode/tree/master/0218-the-skyline-problem) |
 | [0275-h-index-ii](https://github.com/jaivardhan2409/leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/jaivardhan2409/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jaivardhan2409/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/jaivardhan2409/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/jaivardhan2409/leetcode/tree/master/0088-merge-sorted-array) |
+| [0218-the-skyline-problem](https://github.com/jaivardhan2409/leetcode/tree/master/0218-the-skyline-problem) |
 | [0506-relative-ranks](https://github.com/jaivardhan2409/leetcode/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/jaivardhan2409/leetcode/tree/master/0218-the-skyline-problem) |
 | [0506-relative-ranks](https://github.com/jaivardhan2409/leetcode/tree/master/0506-relative-ranks) |
 | [1642-furthest-building-you-can-reach](https://github.com/jaivardhan2409/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 ## Greedy
@@ -55,4 +58,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/jaivardhan2409/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jaivardhan2409/leetcode/tree/master/0218-the-skyline-problem) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jaivardhan2409/leetcode/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jaivardhan2409/leetcode/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jaivardhan2409/leetcode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jaivardhan2409/leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
