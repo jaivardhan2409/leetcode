@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/jaivardhan2409/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/jaivardhan2409/leetcode/tree/master/0509-fibonacci-number) |
+| [2523-closest-prime-numbers-in-range](https://github.com/jaivardhan2409/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/jaivardhan2409/leetcode/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/jaivardhan2409/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
