@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jaivardhan2409/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaivardhan2409/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0218-the-skyline-problem](https://github.com/jaivardhan2409/leetcode/tree/master/0218-the-skyline-problem) |
+| [0268-missing-number](https://github.com/jaivardhan2409/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/jaivardhan2409/leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/jaivardhan2409/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jaivardhan2409/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jaivardhan2409/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/jaivardhan2409/leetcode/tree/master/0088-merge-sorted-array) |
 | [0218-the-skyline-problem](https://github.com/jaivardhan2409/leetcode/tree/master/0218-the-skyline-problem) |
+| [0268-missing-number](https://github.com/jaivardhan2409/leetcode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/jaivardhan2409/leetcode/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaivardhan2409/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/jaivardhan2409/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/jaivardhan2409/leetcode/tree/master/0275-h-index-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaivardhan2409/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/jaivardhan2409/leetcode/tree/master/0268-missing-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jaivardhan2409/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -78,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/jaivardhan2409/leetcode/tree/master/0218-the-skyline-problem) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jaivardhan2409/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jaivardhan2409/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
