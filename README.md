@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/jaivardhan2409/leetcode/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/jaivardhan2409/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/jaivardhan2409/leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/jaivardhan2409/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/jaivardhan2409/leetcode/tree/master/0509-fibonacci-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jaivardhan2409/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jaivardhan2409/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jaivardhan2409/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jaivardhan2409/leetcode/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
